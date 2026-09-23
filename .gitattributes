@@ -1,0 +1,9 @@
+* text=auto
+.gitattributes text eol=lf
+mvnw text eol=lf
+mvnw.cmd text eol=crlf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+*.sh text eol=lf
+*.jar binary
+*.png binary
